@@ -22,3 +22,6 @@ agora que falei de tudo que o gpt me falou pra agora é interessante focar em al
 enfim falando mas um poco sobre oq tanto que eu tenho que estudar pra entender como funciona é sobre CODEX principalemente e tambem do Libavcodec e Libavformat
 
 Algo interessante tambem de estudar é como que funciona pro windows mostrar video, mas é algo mais avançado que sai um pouco do escopo mas acabei achando um processamnete de imagem aqui no [microsft learn ](https://learn.microsoft.com/pt-br/windows-hardware/drivers/image/image-processing). mas vou deixa pra dps
+
+puta que pariu falando em microsft learn saba só oq eu achei uqando pesquisei image processing no site deles
+https://learn.microsoft.com/pt-br/cpp/parallel/concrt/walkthrough-creating-an-image-processing-network?view=msvc-170 , vou fazer uma pequena review desse artigão gostoso :P

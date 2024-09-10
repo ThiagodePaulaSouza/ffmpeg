@@ -60,3 +60,8 @@ Maravilha chegando a 30% disso tudo vou começar a acelerar que to começando a 
 aqui fala especificamente de jpg ele vai fazer assim ó, converte pra zcinza ve a cor dominante e escureçe e qualquer outro é sétipa nele algo assim, eita aqui o negocio começa a realmente parecer c++ tem uma função que retorna transformer aqui  de wstring , pointer bitmap que tem uma lambda [&] sla que tem um -> mt odoido pra bitmap que dai começa a funcção instancia bitmap e da insert meu amigo vou pula isso auhshusahusau bagulho é tão complexo que tem até um diagrama aqui slk, ah n mas enfim os 50% em diante é o resutlado final que ficou mt interessante mas enfim ficou mt legal o resultado final agora que eu entendi +- como q funciona isso, ele ta usando isso pra mostrar como é possivel alterar as cores da imagem por exemplo tem um aqui mt bonito com uma flor azul e verde que faz meio sepia bem lgeal o mesmo pro pinguim.
 
 é isso sobre a documentação que eu absorvi, nada a ve com oq to vendo KKKKKKKK.
+
+`10/09/2024`
+Bom dia, vamos continuar estudando um pouco sobre ffmpeg, acabei agora me adiantando um pouco nos estudos mais fundamentares agora pra ver os repositórios e soluções de hoje em dia que envolvem o ffmpeg, pelo menos foi os que vi com o nome ffmpeg no nome mesmo...
+https://github.dev/vladjerca/FFMpegSharp https://github.dev/tomaszzmuda/Xabe.FFmpeg https://github.dev/cmxl/FFmpeg.NET https://github.dev/rosenbjerg/FFMpegCore https://github.dev/sdcb/Sdcb.FFmpeg https://github.dev/mscorlib/FFmpegSharp https://github.dev/Rambalac/JoinerSplitter https://github.dev/colin-chang/FFmpegHelper https://github.dev/majorsilence/MPlayerControl
+são esses que eu vou ver agora... até logo
